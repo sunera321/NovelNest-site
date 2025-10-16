@@ -5,7 +5,8 @@ const nextConfig = {
     domains: ['localhost'],
     unoptimized: true,
   },
-  output: 'standalone',
+  // Remove standalone for Netlify
+  // output: 'standalone',
 }
 
 module.exports = nextConfig

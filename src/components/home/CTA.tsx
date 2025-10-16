@@ -29,7 +29,7 @@ export default function CTA() {
             Ready to Start Your <span className="text-green1">Story Journey</span>?
           </h2>
           <p className="text-xl text-gray-100 mb-10 leading-relaxed">
-            Join NovelNest today and discover a world of stories. Whether you're here to read or write, 
+            Join NovelNest today and discover a world of stories. Whether you&apos;re here to read or write, 
             your next adventure begins now.
           </p>
 

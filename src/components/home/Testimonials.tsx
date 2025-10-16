@@ -99,7 +99,7 @@ export default function Testimonials() {
               </div>
 
               <p className="text-gray-600 leading-relaxed italic">
-                "{testimonial.text}"
+                &quot;{testimonial.text}&quot;
               </p>
             </motion.div>
           ))}

@@ -58,7 +58,7 @@ export default function Features() {
             <span className="text-secondary"> Everyone</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Whether you're a reader or a writer, NovelNest has everything you need for an amazing storytelling experience.
+            Whether you&apos;re a reader or a writer, NovelNest has everything you need for an amazing storytelling experience.
           </p>
         </motion.div>
 
